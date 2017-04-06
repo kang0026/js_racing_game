@@ -1,10 +1,10 @@
 Javascript Racing Game - Chicken vs Crabs
 
-This game is the produce of my Javascript practice. 
+This game is for my Javascript practice. 
 
       It is for practice purpose ONLY
       
-This is a game is made in Javascript, the PHP file is only for deploying the game to heroku.
+This game is made in Javascript, the PHP file is only for deploying the game to heroku.
 
       The link to game is: https://obscure-temple-72014.herokuapp.com/
       
